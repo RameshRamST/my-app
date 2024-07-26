@@ -24,11 +24,8 @@ html {
 /* Game board container */
 
 /* No additional styling needed for .board-row unless you want to adjust spacing or alignment */
-.board-row {
-  /* Add any custom styles here if needed */
-}
 
-/* Individual square */
+
 .square {
   background-color: #444;
   /* Dark grey background for empty squares */
